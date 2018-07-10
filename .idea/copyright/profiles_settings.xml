@@ -1,0 +1,10 @@
+<component name="CopyrightManager">
+  <settings default="I">
+    <module2copyright>
+      <element module="All" copyright="I" />
+    </module2copyright>
+    <LanguageOptions name="Go">
+      <option name="fileTypeOverride" value="3" />
+    </LanguageOptions>
+  </settings>
+</component>
